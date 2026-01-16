@@ -26,7 +26,7 @@ const config = {
   "header": {
     "tag": "CASE STUDY",
     "title": "How We Sold This 2-Bedroom Waterloo Loft in Just 16 Days, With 3 Competing Offers, When 5 Other Units Sat Unsold for Over 60 Days",
-    "subheadline": "Sold in a Challenging Market With Strategic Pricing and Perfect Timing—Enabling a Smooth Relocation to Be Closer to Family"
+    "subheadline": "Sold in a Challenging Market With Strategic Pricing and Perfect Timing— -Enabling a Smooth Relocation to Be Closer to Family"
   },
   "mainBox": {
     "summary": {
@@ -37,7 +37,7 @@ const config = {
       "subTitle": "Summary",
       "paragraphs": [
         "Meet a savvy investor and soon-to-be part-time Toronto resident who owned two units in the same Waterloo building. She needed to sell one of them quickly to secure another property in Toronto and be closer to her aging mother, but the market conditions had her worried.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD IN JUST 16 DAYS</strong> while competing units languished unsold for over 60 days Generated an offer within the first 3 days on market, followed by <strong>3 COMPETING OFFERS</strong> in a single day after the second weekend. <strong>RECEIVED MULTIPLE OFFERS OVER ASKING PRICE</strong>—giving the seller the power to choose not just the highest bidder, but the buyer with the best terms and conditions Negotiated fewer conditions and a closing date that perfectly aligned with her Toronto purchase, eliminating the domino-effect stress. Final sale price of $750,000—strategically chosen by the seller based on superior terms, proving that the best offer isn't always about the highest number. <strong>18 SHOWINGS IN 16 DAYS</strong> in a market where similar units were barely getting traffic."
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD IN JUST 16 DAYS</strong> while competing units languished unsold for over 60 days Generated an offer within the first 3 days on market, followed by <strong>3 COMPETING OFFERS</strong> in a single day after the second weekend. <strong>RECEIVED MULTIPLE COMPETITIVE OFFERS</strong> - giving the seller the power to choose not just the highest bidder, but the buyer with the best terms and conditions Negotiated fewer conditions and a closing date that perfectly aligned with her Toronto purchase, eliminating the domino-effect stress. Final sale price of $750,000, strategically chosen by the seller based on superior terms, proving that the best offer isn't always about the highest number. <strong>18 SHOWINGS IN 16 DAYS</strong> in a market where similar units were barely getting traffic."
       ]
     },
     "sidebar": {
@@ -66,11 +66,11 @@ const config = {
       "type": "standard",
       "title": "The Strategy",
       "paragraphs": [
-        "Conducted a comprehensive competitive analysis by physically touring every other listing in the building with her—identifying exactly why they weren't selling and how we could differentiate her unit",
+        "Conducted a comprehensive competitive analysis by physically touring every other listing in the building with her, identifying exactly why they weren't selling and how we could differentiate her unit",
         "Priced strategically at true market value ($759,000), not artificially low to create false urgency, but positioned perfectly to reflect the superior features her loft offered compared to the competition",
         "Transformed the space by decluttering and staging it to showcase the open loft layout, using her second unit as storage to clear out excess furniture and let the 1,615 square feet breathe",
         "Invested in professional photography and videography that captured the loft's best features, then strategically marketed across MLS, Facebook, and condos.ca to reach serious buyers",
-        "Created a seamless showing experience with prompt confirmations and a home that consistently showed in pristine condition—making buyers feel confident about the property from the moment they walked in"
+        "Created a seamless showing experience with prompt confirmations and a home that consistently showed in pristine condition - making buyers feel confident about the property from the moment they walked in"
       ],
       "listItems": []
     },
@@ -91,7 +91,7 @@ const config = {
       "paragraphs": [
         "<strong>SOLD IN JUST 16 DAYS</strong> while competing units languished unsold for over 60 days",
         "Generated an offer within the first 3 days on market, followed by <strong>3 COMPETING OFFERS</strong> in a single day after the second weekend",
-        "<strong>RECEIVED MULTIPLE OFFERS OVER ASKING PRICE</strong>—giving the seller the power to choose not just the highest bidder, but the buyer with the best terms and conditions",
+        "<strong>RECEIVED MULTIPLE COMPETITIVE OFFERS</strong> - giving the seller the power to choose not just the highest bidder, but the buyer with the best terms and conditions",
         "Negotiated fewer conditions and a closing date that perfectly aligned with her Toronto purchase, eliminating the domino-effect stress",
         "Final sale price of $750,000, strategically chosen by the seller based on superior terms, proving that the best offer isn't always about the highest number",
         "<strong>18 SHOWINGS IN 16 DAYS</strong> in a market where similar units were barely getting traffic"
