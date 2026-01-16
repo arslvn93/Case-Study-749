@@ -25,7 +25,7 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How We Sold This 2-Bedroom Waterloo Loft in Just 16 Days—With 3 Competing Offers—When 5 Other Units Sat Unsold for Over 60 Days",
+    "title": "How We Sold This 2-Bedroom Waterloo Loft in Just 16 Days, With 3 Competing Offers, When 5 Other Units Sat Unsold for Over 60 Days",
     "subheadline": "Sold in a Challenging Market With Strategic Pricing and Perfect Timing—Enabling a Smooth Relocation to Be Closer to Family"
   },
   "mainBox": {
