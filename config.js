@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "Veronika  Zykova",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Veronika Zykova",
@@ -26,7 +15,13 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "Veronika  Zykova",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "https://calendly.com/veronika-property/30min?month=2026-01",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +59,8 @@ const config = {
         "She was under serious time pressure: this sale was conditional for another property she was purchasing in Toronto, meaning every day counted",
         "The fear of underselling was real—she had a great product but didn't want to panic-price it too low, yet couldn't afford to have it sit on the market like the others",
         "The stakes were high: failing to sell quickly meant potentially losing her Toronto purchase and delaying her move closer to family"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"\"I would not put my life like this into anyone else's hands but Veronika's—she was such a strong support through the whole process. We had some stressful moments, and she continued to assure me that all would be fine, and in the end it was. She matched my energy perfectly and showed the experience and knowledge I needed during such a high-pressure situation.\"\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1768416403730-Screenshot 2026-01-14 at 1.42.14 PM.png"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -100,7 +98,8 @@ const config = {
         "Negotiated fewer conditions and a closing date that perfectly aligned with her Toronto purchase, eliminating the domino-effect stress",
         "Final sale price of $750,000—strategically chosen by the seller based on superior terms, proving that the best offer isn't always about the highest number",
         "<strong>18 SHOWINGS IN 16 DAYS</strong> in a market where similar units were barely getting traffic"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -109,7 +108,8 @@ const config = {
         "<strong>Strategic pricing beats desperate pricing every time</strong>: Don't panic and go too low just because other properties aren't selling—position your home at true market value when you have a superior product and the right strategy",
         "<strong>Staging and presentation aren't optional luxuries</strong>: In a market where buyers have choices, the home that shows best wins—decluttering, professional photography, and creating breathing room can be the difference between 60+ days on market and selling in 16",
         "<strong>The best offer isn't always the highest number</strong>: When you create competition and work with an agent who understands negotiation, you gain the power to choose buyers based on terms, conditions, and reliability—not just who offers an extra few thousand dollars"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -121,24 +121,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://docs.google.com/document/d/e/2PACX-1vTjKmNELnVNP0k9KCchoXSN02kCMm4wjoxhmZ_z-mZER-GHCDOpI3YkrW4PHiW0LAjIOWLIoyCQnuJq/pub"
+    },
     "logo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1766085828688-IMG_9717.jpg"
+    },
+    "secondaryLogo": {
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1752094988620-Property.ca-Logo.png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Property.ca",
     "brokerageAddress": "36 Distillery Lane Unit 500, Toronto, ON, M5A 3C4",
-    "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1752094988620-Property.ca-Logo.png"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://docs.google.com/document/d/e/2PACX-1vTjKmNELnVNP0k9KCchoXSN02kCMm4wjoxhmZ_z-mZER-GHCDOpI3YkrW4PHiW0LAjIOWLIoyCQnuJq/pub"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-749"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
