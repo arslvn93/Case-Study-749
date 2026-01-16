@@ -30,14 +30,14 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How We Sold This 2-Bedroom Waterloo Loft in Just 16 Days—With 3 Competing Offers—When 5 Other Units Sat Unsold for Over 60 Days",
+      "title": "How We Sold This 2-Bedroom Waterloo Loft in Just 16 Days, With 3 Competing Offers, When 5 Other Units Sat Unsold for Over 60 Days",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1768416391282-Screenshot 2026-01-14 at 1.41.38 PM.png"
       },
       "subTitle": "Summary",
       "paragraphs": [
-        "Meet a savvy investor and soon-to-be part-time Toronto resident who owned two units in the same Waterloo building. She needed to sell one of them quickly to secure another property in Toronto and be closer to her aging mother—but the market conditions had her worried.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD IN JUST 16 DAYS</strong> while competing units languished unsold for over 60 days Generated an offer within the first 3 days on market, followed by <strong>3 COMPETING OFFERS</strong> in a single day after the second weekend <strong>RECEIVED MULTIPLE OFFERS OVER ASKING PRICE</strong>—giving the seller the power to choose not just the highest bidder, but the buyer with the best terms and conditions Negotiated fewer conditions and a closing date that perfectly aligned with her Toronto purchase, eliminating the domino-effect stress Final sale price of $750,000—strategically chosen by the seller based on superior terms, proving that the best offer isn't always about the highest number <strong>18 SHOWINGS IN 16 DAYS</strong> in a market where similar units were barely getting traffic"
+        "Meet a savvy investor and soon-to-be part-time Toronto resident who owned two units in the same Waterloo building. She needed to sell one of them quickly to secure another property in Toronto and be closer to her aging mother, but the market conditions had her worried.",
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD IN JUST 16 DAYS</strong> while competing units languished unsold for over 60 days Generated an offer within the first 3 days on market, followed by <strong>3 COMPETING OFFERS</strong> in a single day after the second weekend. <strong>RECEIVED MULTIPLE OFFERS OVER ASKING PRICE</strong>—giving the seller the power to choose not just the highest bidder, but the buyer with the best terms and conditions Negotiated fewer conditions and a closing date that perfectly aligned with her Toronto purchase, eliminating the domino-effect stress. Final sale price of $750,000—strategically chosen by the seller based on superior terms, proving that the best offer isn't always about the highest number. <strong>18 SHOWINGS IN 16 DAYS</strong> in a market where similar units were barely getting traffic."
       ]
     },
     "sidebar": {
