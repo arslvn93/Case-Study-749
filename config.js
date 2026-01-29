@@ -21,7 +21,7 @@ const config = {
     "mainCTAButtonURL": "https://calendly.com/veronika-property/30min?month=2026-01",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
-    "facebookPixelId": ""
+    "facebookPixelId": "1167552198570751"
   },
   "header": {
     "tag": "CASE STUDY",
